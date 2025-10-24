@@ -1,0 +1,82 @@
+[
+  {
+    "id": "101",
+    "name": "Men's T-shirt",
+    "image": "assets/images/product1.jpg",
+    "price": 120,
+    "types": "Clothings",
+    "description": "Spical t-shirt for summer."
+  },
+  {
+    "id": "102",
+    "name": "Casual Shoes",
+    "image": "assets/images/product2.jpg",
+    "price": 2500,
+    "types": "Accessories",
+    "description": "Made for the comfort."
+  },
+  {
+    "id": "103",
+    "name": "Watch",
+    "image": "assets/images/product3.jpg",
+    "price": 5000,
+    "types": "Accessories",
+    "description": "Metal watch for Men's Fassion."
+  },
+    {
+    "id": "104",
+    "name": "IPhone 17 Pro Max",
+    "image": "assets/images/product4.jpg",
+    "price": 150000,
+    "types": "Accessories",
+    "description": "Metal watch for Men's Fassion."
+  },
+    {
+    "id": "105",
+    "name": "Smart Watch",
+    "image": "assets/images/product5.jpg",
+    "price": 3000,
+    "types": "Accessories",
+    "description": "Smart watch for Men's Fassion."
+  },
+    {
+    "id": "106",
+    "name": "Casual Shirt",
+    "image": "assets/images/product6.jpg",
+    "price": 500,
+    "types": "Clothings",
+    "description": "Casual Shirt with White T-shirt."
+  },
+    {
+    "id": "107",
+    "name": "Baggy Pants",
+    "image": "assets/images/product7.jpg",
+    "price": 6000,
+    "types": "Clothings",
+    "description": "Branded Baggy Pant Combo."
+  },
+    {
+    "id": "108",
+    "name": "Head Phone",
+    "image": "assets/images/product8.jpg",
+    "price": 3000,
+    "types": "Accessories",
+    "description": "Limited Edision Harry Potter Head Phones."
+  },
+    {
+    "id": "109",
+    "name": "Keyboard",
+    "image": "assets/images/product9.jpg",
+    "price": 4000,
+    "types": "Accessories",
+    "description": "Premimum Keyboard ."
+  },
+    {
+    "id": "1010",
+    "name": "Mouse",
+    "image": "assets/images/product10.jpg",
+    "price": 800,
+    "types": "Accessories",
+    "description": "Mouse for office works."
+  }
+]
